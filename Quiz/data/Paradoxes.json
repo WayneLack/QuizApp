@@ -1,0 +1,53 @@
+[
+  {
+    "question": "What is Zeno's paradox?",
+    "answer": "Zeno's paradoxes are a set of philosophical problems that argue motion is impossible because an object must always travel half the remaining distance before reaching its destination.",
+    "info": "They were proposed by the ancient Greek philosopher Zeno of Elea around the 5th century BC."
+  },
+  {
+    "question": "What is the liar paradox?",
+    "answer": "The liar paradox arises from a statement that declares itself to be false, creating a logical contradiction.",
+    "info": "It dates back to ancient Greece and is often attributed to the philosopher Epimenides."
+  },
+  {
+    "question": "What is the ship of Theseus paradox?",
+    "answer": "The ship of Theseus asks whether an object that has had all of its components replaced remains fundamentally the same object.",
+    "info": "The paradox was discussed by the Greek philosopher Plutarch."
+  },
+  {
+    "question": "What is the grandfather paradox?",
+    "answer": "The grandfather paradox involves a time traveller who goes back in time and prevents their own existence by altering past events.",
+    "info": "It is a common paradox in discussions of time travel in physics and science fiction."
+  },
+  {
+    "question": "What is the paradox of the heap?",
+    "answer": "The paradox of the heap questions when a collection of grains becomes a heap, highlighting vagueness in language.",
+    "info": "It is also known as the sorites paradox and comes from ancient Greek philosophy."
+  },
+  {
+    "question": "What is the barber paradox?",
+    "answer": "The barber paradox describes a barber who shaves all and only those men who do not shave themselves, leading to a contradiction.",
+    "info": "It was formulated by the philosopher Bertrand Russell in the early 20th century."
+  },
+  {
+    "question": "What is the twin paradox?",
+    "answer": "The twin paradox involves one twin travelling at near light speed and returning younger than the twin who stayed on Earth.",
+    "info": "It arises from Einstein's theory of special relativity."
+  },
+  {
+    "question": "What is the bootstrap paradox?",
+    "answer": "The bootstrap paradox occurs when an object or piece of information is sent back in time and becomes the cause of itself.",
+    "info": "It is also known as a causal loop and appears frequently in time travel stories."
+  },
+  {
+    "question": "What is the raven paradox?",
+    "answer": "The raven paradox questions how observing a non-black object can provide evidence that all ravens are black.",
+    "info": "It was introduced by the philosopher Carl Gustav Hempel in the 20th century."
+  },
+  {
+    "question": "What is the unexpected hanging paradox?",
+    "answer": "The unexpected hanging paradox involves a condemned prisoner who reasons that an announced execution cannot logically occur, yet it does.",
+    "info": "It is also known as the surprise examination paradox."
+  }
+]
+
