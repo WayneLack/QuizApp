@@ -9,7 +9,7 @@ skills at the time, so this may change.
  - Phase 3 is to update the format so that if it ever goes live as an app, it will already look appish in structure. This will include separating the functions within my 
 	python script into individual files e.g. main.py, buttons.py, etc. 
  - Phase 4 is a bigger phase, adding more and more features. I'm talking sounds, I'm talking game modes, I'm talking dark mode baby 
- - Phase 5 is to change the structure to be truly app like, so updatinng the languages where necessary and introducing new files of code to go from a complete python 
+ - Phase 5 is to change the structure to be truly app like, so updating the languages where necessary and introducing new files of code to go from a complete python 
 	script to an app
  - Phase 6 is the add app like features, since it will now be app-like. Things like a scoreboard, in-game achievements, adverts, and the ability to share on your facebook 
 	so your nan can see
