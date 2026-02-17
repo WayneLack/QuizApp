@@ -1,0 +1,78 @@
+[
+  {
+    "question": "What is the currency of the United States?",
+    "answer": "United States Dollar",
+    "info": "The US dollar is used officially in several other countries and is a major global reserve currency."
+  },
+  {
+    "question": "What is the currency of the United Kingdom?",
+    "answer": "Pound Sterling",
+    "info": "The pound sterling is one of the oldest currencies still in continuous use."
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "Yen",
+    "info": "The yen is the third most traded currency in the world."
+  },
+  {
+    "question": "What is the currency of the Eurozone?",
+    "answer": "Euro",
+    "info": "Not all European Union countries use the euro."
+  },
+  {
+    "question": "What is the currency of China?",
+    "answer": "Renminbi",
+    "info": "The main unit of the renminbi is the yuan, which is often used informally to refer to the currency."
+  },
+  {
+    "question": "What is the currency of Canada?",
+    "answer": "Canadian Dollar",
+    "info": "The Canadian dollar is often nicknamed the loonie after the bird on the one dollar coin."
+  },
+  {
+    "question": "What is the currency of Australia?",
+    "answer": "Australian Dollar",
+    "info": "Australia was one of the first countries to introduce polymer banknotes."
+  },
+  {
+    "question": "What is the currency of India?",
+    "answer": "Indian Rupee",
+    "info": "The Indian rupee symbol was officially adopted in 2010."
+  },
+  {
+    "question": "What is the currency of Russia?",
+    "answer": "Russian Ruble",
+    "info": "The ruble is one of the oldest national currencies still in use."
+  },
+  {
+    "question": "What is the currency of Brazil?",
+    "answer": "Brazilian Real",
+    "info": "The real was introduced in 1994 to stabilise the Brazilian economy."
+  },
+  {
+    "question": "What is the currency of South Africa?",
+    "answer": "South African Rand",
+    "info": "The rand is also accepted in several neighbouring countries."
+  },
+  {
+    "question": "What is the currency of Mexico?",
+    "answer": "Mexican Peso",
+    "info": "The peso symbol helped inspire the modern dollar sign."
+  },
+  {
+    "question": "What is the currency of Switzerland?",
+    "answer": "Swiss Franc",
+    "info": "Switzerland does not use the euro despite being surrounded by eurozone countries."
+  },
+  {
+    "question": "What is the currency of Sweden?",
+    "answer": "Swedish Krona",
+    "info": "Sweden remains outside the eurozone despite being an EU member."
+  },
+  {
+    "question": "What is the currency of South Korea?",
+    "answer": "South Korean Won",
+    "info": "The won was reintroduced in 1962 after a period of inflation."
+  }
+]
+

@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "title": "Prime Ministers",
+        "mode": "basic"
+    },
+    "questions": [
+        {
+            "question": "Who was the first Prime Minister of the UK?",
+            "answer": "Robert Walpole",
+            "info": "He served from 1721 to 1742."
+        },
+        {
+            "question": "Who was PM during WWII?",
+            "answer": "Winston Churchill",
+            "info": "He served from 1940–1945 and again from 1951–1955."
+        }
+    ]
+}
+

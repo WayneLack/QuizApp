@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "title": "World Geography",
+        "mode": "smart"
+    },
+    "countries": {
+        "France": {
+            "capital": "Paris",
+            "currency": "Euro",
+            "region": "Europe",
+            "languages": ["French"],
+            "exports": ["machinery", "aircraft"]
+        },
+        "Japan": {
+            "capital": "Tokyo",
+            "currency": "Yen",
+            "region": "Asia",
+            "languages": ["Japanese"],
+            "exports": ["cars", "electronics"]
+        }
+    }
+}
+
